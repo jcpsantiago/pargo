@@ -1,0 +1,14 @@
+Package: pargo
+Title: Get Features From Feature Store
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "João",
+           family = "Santiago",
+           role = c("aut", "cre"),
+           email = "me@jcpsantiago.xyz")
+Description: Pargo fetches features from the feature store *gasp*.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
