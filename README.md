@@ -2,6 +2,7 @@
 # pargo 🐟🧪
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/jcpsantiago/pargo/workflows/R-CMD-check/badge.svg)](https://github.com/jcpsantiago/pargo/actions)
 <!-- badges: end -->
 
 The goal of pargo is to fetch features from a feature store.
